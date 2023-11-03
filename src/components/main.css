@@ -1,0 +1,20 @@
+.container {
+  margin: 5% auto;
+  width: 600px;
+  height: 600px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.bloco {
+  box-sizing: border-box;
+  width: 200px;
+  height: 200px;
+  border: 2px solid #1aa2ac;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  font-size: 80px;
+}
+

@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #20dad8;
+  font-family: sans-serif;
+}
+
+.color1 {color: #121c23;}
+.color2 {color: #123e46;}
+.color3 {color: #126775;}
+.color4 {color: #1aa2ac;}
+.color5 {color: #20dad8;}
